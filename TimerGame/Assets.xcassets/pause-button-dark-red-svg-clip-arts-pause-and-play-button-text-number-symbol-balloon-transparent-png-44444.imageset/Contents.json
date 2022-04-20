@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "pause-button-dark-red-svg-clip-arts-pause-and-play-button-text-number-symbol-balloon-transparent-png-44444.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

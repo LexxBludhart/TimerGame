@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "button-reset-images-update-button-red-number-symbol-text-mailbox-transparent-png-1418544.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

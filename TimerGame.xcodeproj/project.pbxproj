@@ -7,15 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F47CB3B27FDE2D000C6372D /* Wilhelm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4F47CB3A27FDE2D000C6372D /* Wilhelm.mp3 */; };
 		4FCA5CB027FCA55A00366AE7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCA5CAF27FCA55A00366AE7 /* AppDelegate.swift */; };
 		4FCA5CB227FCA55A00366AE7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCA5CB127FCA55A00366AE7 /* SceneDelegate.swift */; };
 		4FCA5CB427FCA55A00366AE7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCA5CB327FCA55A00366AE7 /* ViewController.swift */; };
 		4FCA5CB727FCA55A00366AE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FCA5CB527FCA55A00366AE7 /* Main.storyboard */; };
 		4FCA5CB927FCA55B00366AE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FCA5CB827FCA55B00366AE7 /* Assets.xcassets */; };
 		4FCA5CBC27FCA55B00366AE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FCA5CBA27FCA55B00366AE7 /* LaunchScreen.storyboard */; };
+		4FEDD372280F2B9C0035978F /* tindeck_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4FEDD371280F2B9C0035978F /* tindeck_1.mp3 */; };
+		4FEDD374280F34050035978F /* noice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4FEDD373280F34050035978F /* noice.mp3 */; };
+		4FEDD376280F34300035978F /* mmm-2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4FEDD375280F34300035978F /* mmm-2.wav */; };
+		4FEDD37A280F36230035978F /* swoosh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4FEDD379280F36230035978F /* swoosh.mp3 */; };
+		4FEDD37C280F36EE0035978F /* timer_beep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4FEDD37B280F36EE0035978F /* timer_beep.mp3 */; };
+		4FEDD380280F3AE30035978F /* fart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4FEDD37F280F3AE30035978F /* fart.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4F47CB3A27FDE2D000C6372D /* Wilhelm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wilhelm.mp3; sourceTree = "<group>"; };
 		4FCA5CAC27FCA55A00366AE7 /* TimerGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimerGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FCA5CAF27FCA55A00366AE7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4FCA5CB127FCA55A00366AE7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +32,12 @@
 		4FCA5CB827FCA55B00366AE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4FCA5CBB27FCA55B00366AE7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4FCA5CBD27FCA55B00366AE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FEDD371280F2B9C0035978F /* tindeck_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tindeck_1.mp3; sourceTree = "<group>"; };
+		4FEDD373280F34050035978F /* noice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = noice.mp3; sourceTree = "<group>"; };
+		4FEDD375280F34300035978F /* mmm-2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "mmm-2.wav"; sourceTree = "<group>"; };
+		4FEDD379280F36230035978F /* swoosh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = swoosh.mp3; sourceTree = "<group>"; };
+		4FEDD37B280F36EE0035978F /* timer_beep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = timer_beep.mp3; sourceTree = "<group>"; };
+		4FEDD37F280F3AE30035978F /* fart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fart.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +77,13 @@
 				4FCA5CB827FCA55B00366AE7 /* Assets.xcassets */,
 				4FCA5CBA27FCA55B00366AE7 /* LaunchScreen.storyboard */,
 				4FCA5CBD27FCA55B00366AE7 /* Info.plist */,
+				4F47CB3A27FDE2D000C6372D /* Wilhelm.mp3 */,
+				4FEDD371280F2B9C0035978F /* tindeck_1.mp3 */,
+				4FEDD373280F34050035978F /* noice.mp3 */,
+				4FEDD375280F34300035978F /* mmm-2.wav */,
+				4FEDD379280F36230035978F /* swoosh.mp3 */,
+				4FEDD37B280F36EE0035978F /* timer_beep.mp3 */,
+				4FEDD37F280F3AE30035978F /* fart.mp3 */,
 			);
 			path = TimerGame;
 			sourceTree = "<group>";
@@ -126,7 +147,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				4FCA5CBC27FCA55B00366AE7 /* LaunchScreen.storyboard in Resources */,
+				4FEDD380280F3AE30035978F /* fart.mp3 in Resources */,
+				4F47CB3B27FDE2D000C6372D /* Wilhelm.mp3 in Resources */,
 				4FCA5CB927FCA55B00366AE7 /* Assets.xcassets in Resources */,
+				4FEDD37A280F36230035978F /* swoosh.mp3 in Resources */,
+				4FEDD376280F34300035978F /* mmm-2.wav in Resources */,
+				4FEDD37C280F36EE0035978F /* timer_beep.mp3 in Resources */,
+				4FEDD374280F34050035978F /* noice.mp3 in Resources */,
+				4FEDD372280F2B9C0035978F /* tindeck_1.mp3 in Resources */,
 				4FCA5CB727FCA55A00366AE7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -290,9 +318,11 @@
 				DEVELOPMENT_TEAM = S7DK3A6HH3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TimerGame/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = TimerGame;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -318,9 +348,11 @@
 				DEVELOPMENT_TEAM = S7DK3A6HH3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TimerGame/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = TimerGame;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
